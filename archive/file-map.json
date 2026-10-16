@@ -1,0 +1,277 @@
+[
+  {
+    "original": "analytic-reduction.md",
+    "path": "lemmas/analytic-reduction.md",
+    "original_sha256": "f38295d9613270769982fb8f20397aa61285e85a0f71ebac1851a6de37880d61"
+  },
+  {
+    "original": "bivariate-period.py",
+    "path": "scripts/bivariate-period.py",
+    "original_sha256": "a7eafe6bb0ab557e136a30bbecb0b8c930fef21afb8fa3b39a8fa7744f87bec0"
+  },
+  {
+    "original": "bounty-scope.md",
+    "path": "docs/bounty-scope.md",
+    "original_sha256": "67cf6a45bd017676d843ebed3162c3a489d13bad692b1ecb3616491f7b422ccc"
+  },
+  {
+    "original": "cm-certificate.py",
+    "path": "scripts/cm-certificate.py",
+    "original_sha256": "6ea228ca128e822fff24e50800c779c8bb949f03fea6a85b81dbf36d7829e3b0"
+  },
+  {
+    "original": "cm-eight-branches.md",
+    "path": "lemmas/cm-eight-branches.md",
+    "original_sha256": "e89568ddca51ef1a0c06836784b59d0d5d08d1d43760cf15a07558f645791855"
+  },
+  {
+    "original": "curve-isotropy-certificate.py",
+    "path": "scripts/curve-isotropy-certificate.py",
+    "original_sha256": "f08350db450d1cb25d2d8992050490bbf46a07c52443f9341b2893d4bc9942e9"
+  },
+  {
+    "original": "divisibility-audit.md",
+    "path": "review/divisibility-audit.md",
+    "original_sha256": "bbf1d6eb88ea4a8aef5d97102bb4ecbf13bc52bb216fc9293e9a247e727b754a"
+  },
+  {
+    "original": "divisibility-brauer-certificate.py",
+    "path": "scripts/divisibility-brauer-certificate.py",
+    "original_sha256": "e061f1326be2f01f97d272b0f338de27539a6ce4ac604292b93e99fc47b32c0d"
+  },
+  {
+    "original": "divisibility-brauer-reduction.md",
+    "path": "lemmas/divisibility-brauer-reduction.md",
+    "original_sha256": "434e843d8489aec76e19a9a2f6a58f32d4943cc4058a8b591e3775d0b83d8b68"
+  },
+  {
+    "original": "divisibility-five-adic.md",
+    "path": "lemmas/divisibility-five-adic.md",
+    "original_sha256": "c27f6d9f1dd70a552c2717b677bb2a3330b5b529edbc260aa33f24b885cd82df"
+  },
+  {
+    "original": "divisibility-inert-certificate.py",
+    "path": "scripts/divisibility-inert-certificate.py",
+    "original_sha256": "151388812bb68faf1054b77f9c768a35054313245ca237630f730687e64d29ac"
+  },
+  {
+    "original": "divisibility-inert-powers.md",
+    "path": "lemmas/divisibility-inert-powers.md",
+    "original_sha256": "c5e2eef4c5b1b857f8f30392f787116745d934432a8f1ef5993ba9108cc14a7e"
+  },
+  {
+    "original": "divisibility-ordinary-lemma.md",
+    "path": "lemmas/divisibility-ordinary-lemma.md",
+    "original_sha256": "68abce976303e822db1fd906d5bb331065c60c0e9a91cf1b267e5d073a897c5a"
+  },
+  {
+    "original": "divisibility-proof.md",
+    "path": "proofs/divisibility-proof.md",
+    "original_sha256": "ef161f6c34fcaece6fd83699da4de54bc0f620dd08e77121e42cc37bca05c409"
+  },
+  {
+    "original": "divisibility-reduction.md",
+    "path": "lemmas/divisibility-reduction.md",
+    "original_sha256": "0b085e3ace010cae6a34bb70ae2f283d3be1b556cd24bbec9371f87670872280"
+  },
+  {
+    "original": "divisibility-seven-seventeen.md",
+    "path": "lemmas/divisibility-seven-seventeen.md",
+    "original_sha256": "aa8095ab0904d7b5f3480ffb9d7b4ccf7e9685da79c60a1e1a641559a2bd2c52"
+  },
+  {
+    "original": "divisibility-tate-certificate.py",
+    "path": "scripts/divisibility-tate-certificate.py",
+    "original_sha256": "0d73f51bf0f6b2da1ff886f6f088cf9a8b4b0883701a6d8bea6965642dfabfaa"
+  },
+  {
+    "original": "divisibility-tate-class.md",
+    "path": "lemmas/divisibility-tate-class.md",
+    "original_sha256": "c5737b5b2eafd394029582ac9c83d8d522270a43c92f16e74437f2313ce9f3e0"
+  },
+  {
+    "original": "finite-isotropy.md",
+    "path": "lemmas/finite-isotropy.md",
+    "original_sha256": "24395250a2d6fe96eca410ca0a35e8a0d025644c4ebc1e42884625a818430d7b"
+  },
+  {
+    "original": "finite-sum-reduction.md",
+    "path": "lemmas/finite-sum-reduction.md",
+    "original_sha256": "300988600ecd08bd38544f0fd8855cc44cc75c505de1c88e18f1863bacafabbb"
+  },
+  {
+    "original": "frobenius-probe.py",
+    "path": "scripts/frobenius-probe.py",
+    "original_sha256": "0149948b41a363b134b81239a0c9dd1c98c9763689a2ef8c96010d58d9db4cf2"
+  },
+  {
+    "original": "generic-product-certificate.py",
+    "path": "scripts/generic-product-certificate.py",
+    "original_sha256": "34a4cf2fefef714de45cbf8fd56ce5b15f87553139dda2b54ed15ceff64b41fe"
+  },
+  {
+    "original": "geometric-exploration.md",
+    "path": "archive/geometric-exploration.md",
+    "original_sha256": "c378805b1de0a54793c8aedee7cb8fbe3f4d61734994c4344f5f15d7dace51cb"
+  },
+  {
+    "original": "global-isotropy.md",
+    "path": "lemmas/global-isotropy.md",
+    "original_sha256": "77aac98aabae1c301a0a21f01f323b6cfebdeb6300f70d261addae44cc615c73"
+  },
+  {
+    "original": "hasse-invariant.md",
+    "path": "lemmas/hasse-invariant.md",
+    "original_sha256": "255143bdf6644b3e3752e763a8a666ad6adf906ae7581be36aa5091ce6696edc"
+  },
+  {
+    "original": "inert-branch-proof.md",
+    "path": "archive/inert-branch-proof.md",
+    "original_sha256": "c5bca2479f28e16c538fcc90dedc5d518de529618a17306a50dc772c9f3661bb"
+  },
+  {
+    "original": "inert-exception-certificate.py",
+    "path": "scripts/inert-exception-certificate.py",
+    "original_sha256": "a886d65c3588c3d9e1b0bf35478525eaba0541c35eb2b36c9c810ecf19a19821"
+  },
+  {
+    "original": "isotropy-certificate.py",
+    "path": "scripts/isotropy-certificate.py",
+    "original_sha256": "ccdaaa22a8822622194febb5410f860c67927f09a6a94f1515c55f04351d53ba"
+  },
+  {
+    "original": "modular7-certificate.py",
+    "path": "scripts/modular7-certificate.py",
+    "original_sha256": "1b973ff18e544727c2ef0aff04f1f48ce01da6c1f16f1e0b18e1cb31cb0bfc01"
+  },
+  {
+    "original": "modular7-polynomial.txt",
+    "path": "data/modular7-polynomial.txt",
+    "original_sha256": "6d04cc846cd9ee9f5fbae7af490b6d49f1fb6b249208e3cebda2949c67cd1e4f"
+  },
+  {
+    "original": "nine-branches-audit.md",
+    "path": "review/nine-branches-audit.md",
+    "original_sha256": "eeffca011e9c731a164b388da372e5c01ff10f44cef671b7028a045a013ba569"
+  },
+  {
+    "original": "nine-branches-proof.md",
+    "path": "proofs/nine-branches-proof.md",
+    "original_sha256": "50d1870664d177a11d22a2d6c567243d02ae16bad01996410f94174eba249ce9"
+  },
+  {
+    "original": "nl-certificate.py",
+    "path": "scripts/nl-certificate.py",
+    "original_sha256": "0a323051ee9d3fa5ca20207778d842b5e8b249b3ebe4230b8f29ae42c68e4ede"
+  },
+  {
+    "original": "nl-series.py",
+    "path": "scripts/nl-series.py",
+    "original_sha256": "fd2c61b02c08f2247a7bd48dd271abc1877b73607d8c9ada7ea73d40c502fe43"
+  },
+  {
+    "original": "ode-certificate.py",
+    "path": "scripts/ode-certificate.py",
+    "original_sha256": "1f14f19e4986ace0a91b396898813843800ac6ed531997fdbdebb399e27aa0f9"
+  },
+  {
+    "original": "period-operator.py",
+    "path": "scripts/period-operator.py",
+    "original_sha256": "ed2c98811347b18b299c1de8eafda9f318b69e304896523bc75ec12709c744f3"
+  },
+  {
+    "original": "prime-power-probe.py",
+    "path": "scripts/prime-power-probe.py",
+    "original_sha256": "8661d713bf0abbbc6c9db1af81d605bfacee1864914a36c71b11337ac321224e"
+  },
+  {
+    "original": "product-certificate.py",
+    "path": "scripts/product-certificate.py",
+    "original_sha256": "fb528582f6a0125075833769735309cdf71c00fe3b6cfef92cfc1389f7920da9"
+  },
+  {
+    "original": "product-decomposition.md",
+    "path": "lemmas/product-decomposition.md",
+    "original_sha256": "9a2bd303410a8cce8d789c05633729b23f21e7a579ce998cf544ae0e285d458a"
+  },
+  {
+    "original": "proof-audit.md",
+    "path": "review/proof-audit.md",
+    "original_sha256": "d53175785bdb72e54431127edad250c1ec2cc9e1545c64b44457843a13b77333"
+  },
+  {
+    "original": "proof-series.md",
+    "path": "proofs/proof-series.md",
+    "original_sha256": "2cf6727f592f4257083d962ebb6dfd379596279e9c3daed4df8e2b39cd5dfe50"
+  },
+  {
+    "original": "quadratic-forms.md",
+    "path": "lemmas/quadratic-forms.md",
+    "original_sha256": "feeed78f22f609321c25e1d367d04d927da53549f7ebf508a45ad1351072b0dc"
+  },
+  {
+    "original": "remaining-work.md",
+    "path": "archive/remaining-work.md",
+    "original_sha256": "8cd4858569bcdf59e57dff7b1524f7a67eebf04021e6db5d81d87207a5d682a4"
+  },
+  {
+    "original": "research-log-2026-10-16-continuation.md",
+    "path": "archive/research-log-2026-10-16-continuation.md",
+    "original_sha256": "de075415995d4744879e916990effcc8d7d0a2d3252a446b9faf609103f5fe29"
+  },
+  {
+    "original": "research-notes.md",
+    "path": "archive/research-notes.md",
+    "original_sha256": "2f69828d969c6ae7f362d88eea9b6ba80237dcfc4fd8130720376b4402734b8d"
+  },
+  {
+    "original": "second-section.py",
+    "path": "scripts/second-section.py",
+    "original_sha256": "59460d079b6f758df69b2335e743ca1773f125b3e4dc01a5a8eb659a1e099b79"
+  },
+  {
+    "original": "section-locus.md",
+    "path": "lemmas/section-locus.md",
+    "original_sha256": "10804b9e6fc5f2dc719f2d7f6268a5a352b0491a2ae2c2523c6b0b386c02e9f5"
+  },
+  {
+    "original": "short-ode-check.py",
+    "path": "scripts/short-ode-check.py",
+    "original_sha256": "e3eacff82e6adc1b86eb7c20482603a0effa857cc6011a3a1e0bae4e969c503e"
+  },
+  {
+    "original": "toric-period.md",
+    "path": "lemmas/toric-period.md",
+    "original_sha256": "0d716186ce4264919360c7cd6a8db7e37c69c2251b5dfce2ec41aebd0d9c37c5"
+  },
+  {
+    "original": "transverse-congruence.md",
+    "path": "lemmas/transverse-congruence.md",
+    "original_sha256": "2545158c67d1932af7817d7b1220fd86be2f72c45b9dd572d3e8abb90c73fa0f"
+  },
+  {
+    "original": "verify-short.py",
+    "path": "scripts/verify-short.py",
+    "original_sha256": "33f7ac26ea2a84b7b003c54ce11bccd1030555d38d1e89506343e0645c2f9aab"
+  },
+  {
+    "original": "weighted-ordinary-proof.md",
+    "path": "archive/weighted-ordinary-proof.md",
+    "original_sha256": "3b2e70e3317f27cf2d02777515407e5db7635a1448f910389111f910c9cc04ad"
+  },
+  {
+    "original": "weighted-wronskian-audit.md",
+    "path": "review/weighted-wronskian-audit.md",
+    "original_sha256": "f9a38f23914c165504b01ec4665f48e18f05c58d947e3bfeeb0450d3dcf6cace"
+  },
+  {
+    "original": "weighted-wronskian-certificate.py",
+    "path": "scripts/weighted-wronskian-certificate.py",
+    "original_sha256": "b6142d8ef360ffe197a725e90942289891ac8092b5792bb119219e137d45475f"
+  },
+  {
+    "original": "weighted-wronskian-proof.md",
+    "path": "proofs/weighted-wronskian-proof.md",
+    "original_sha256": "eb2774cac33789f0985bd5a3451febc8d432f3e0a5659d81270153c2ccfc2665"
+  }
+]

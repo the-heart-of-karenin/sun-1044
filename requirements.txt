@@ -1,0 +1,3 @@
+# Dependency versions used during the research.
+sympy==1.14.0
+mpmath==1.3.0
